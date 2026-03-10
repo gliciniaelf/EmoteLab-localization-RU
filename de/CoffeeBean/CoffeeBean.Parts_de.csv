@@ -1,61 +1,61 @@
 Key,en,de,reviewed
-Brows,Brows,Augenbrauen,False
-Ear,Ear,Ohr,False
-Eye,Eye,Auge,False
-Base Hair,Base Hair,Basishaar,False
-Hair Bang >>,Hair Bang >>,Haarknall >>,False
-Hair Bang ><,Hair Bang ><,Haarknall ><,False
-Hair Bang <<,Hair Bang <<,Haarknall <<,False
-Hair Shine,Hair Shine,Haarglanz,False
-Hair Branch >>,Hair Branch >>,Haarzweig >>,False
-Hair Branch <<,Hair Branch <<,Haarzweig <<,False
-Hair Framing >>,Hair Framing >>,Haarrahmen >>,False
-Hair Framing <<,Hair Framing <<,Haarrahmen <<,False
-Hair Framing,Hair Framing,Haarrahmen,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,Haar-Highlight 1 >>,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,Haar-Highlight 2 >>,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,Haar-Highlight 3 >>,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,Haar-Highlight 1 ><,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,Haar-Highlight 2 ><,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,Haar-Highlight 3 ><,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,Haar-Highlight 4 ><,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,Haar-Highlight 5 ><,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,Haar-Highlight 6 ><,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,Haar-Highlight 1 <<,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,Haar-Highlight 2 <<,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,Haar-Highlight 3 <<,False
-Hair Side,Hair Side,Haarseite,False
-Hair Ahoge,Hair Ahoge,Haare Ahoge,False
-Hair Rear,Hair Rear,Haare hinten,False
-Hair Pigtail >>,Hair Pigtail >>,Haarzopf >>,False
-Hair Pigtail <<,Hair Pigtail <<,Haarzopf <<,False
-Animal Ear,Animal Ear,Tierohr,False
-Antenna,Antenna,Antenne,False
-Fin,Fin,Flosse,False
-Gill,Gill,Kieme,False
-Glasses,Glasses,Gläser,False
-Hairband A,Hairband A,Haarband A,False
-Hairband B,Hairband B,Haarband B,False
-Hairband C,Hairband C,Haarband C,False
-Hairband D,Hairband D,Haarband D,False
-Hair Clip >>,Hair Clip >>,Haarspange >>,False
-Hair Clip <<,Hair Clip <<,Haarspange <<,False
-Halo,Halo,Halo,False
-Hat,Hat,Hut,False
-Ear Wing,Ear Wing,Ohrflügel,False
-Horn,Horn,Horn,False
-Horn Front ><,Horn Front ><,Horn vorne ><,False
-Horn Front,Horn Front,Horn vorne,False
-Mecha,Mecha,Mecha,False
-Outfit Collar Inner,Outfit Collar Inner,Outfit-Kragen innen,False
-Outfit Inner,Outfit Inner,Outfit innen,False
-Outfit Outer,Outfit Outer,Äußeres Outfit,False
-Outfit Neckwear A,Outfit Neckwear A,Outfit Krawatte A,False
-Outfit Neckwear B,Outfit Neckwear B,Outfit Neckwear B,False
-Outfit Neckwear C,Outfit Neckwear C,Outfit Krawatten C,False
-Hair Side Branch >> A,Hair Side Branch >> A,Haarseitenzweig >> A,False
-Hair Side Branch >> B,Hair Side Branch >> B,Haarseitenzweig >> B,False
-Hair Side Branch >> C,Hair Side Branch >> C,Haarseitenzweig >> C,False
-Hair Side Branch << A,Hair Side Branch << A,Haarseitenzweig << A,False
-Hair Side Branch << B,Hair Side Branch << B,Haarseitenzweig << B,False
-Hair Side Branch << C,Hair Side Branch << C,Haarseitenzweig << C,False
+Brows,Brows,Augenbrauen,True
+Ear,Ear,Ohr,True
+Eye,Eye,Auge,True
+Base Hair,Base Hair,Basishaare,True
+Hair Bang >>,Hair Bang >>,Pony >>,True
+Hair Bang ><,Hair Bang ><,Pony ><,True
+Hair Bang <<,Hair Bang <<,Pony <<,True
+Hair Shine,Hair Shine,Haarglanz,True
+Hair Branch >>,Hair Branch >>,Haarzweig >>,True
+Hair Branch <<,Hair Branch <<,Haarzweig <<,True
+Hair Framing >>,Hair Framing >>,Seitensträhnen >>,True
+Hair Framing <<,Hair Framing <<,Seitensträhnen <<,True
+Hair Framing,Hair Framing,Seitensträhnen,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,Haar-Highlight 1 >>,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,Haar-Highlight 2 >>,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,Haar-Highlight 3 >>,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,Haar-Highlight 1 ><,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,Haar-Highlight 2 ><,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,Haar-Highlight 3 ><,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,Haar-Highlight 4 ><,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,Haar-Highlight 5 ><,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,Haar-Highlight 6 ><,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,Haar-Highlight 1 <<,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,Haar-Highlight 2 <<,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,Haar-Highlight 3 <<,True
+Hair Side,Hair Side,Haare Seite,True
+Hair Ahoge,Hair Ahoge,Haare Ahoge,True
+Hair Rear,Hair Rear,Haare hinten,True
+Hair Pigtail >>,Hair Pigtail >>,Haarzopf >>,True
+Hair Pigtail <<,Hair Pigtail <<,Haarzopf <<,True
+Animal Ear,Animal Ear,Tierohr,True
+Antenna,Antenna,Antenne,True
+Fin,Fin,Flosse,True
+Gill,Gill,Kieme,True
+Glasses,Glasses,Brille,True
+Hairband A,Hairband A,Haarband A,True
+Hairband B,Hairband B,Haarband B,True
+Hairband C,Hairband C,Haarband C,True
+Hairband D,Hairband D,Haarband D,True
+Hair Clip >>,Hair Clip >>,Haarspange >>,True
+Hair Clip <<,Hair Clip <<,Haarspange <<,True
+Halo,Halo,Heiligenschein,True
+Hat,Hat,Hut,True
+Ear Wing,Ear Wing,Ohrflügel,True
+Horn,Horn,Horn,True
+Horn Front ><,Horn Front ><,Horn vorne ><,True
+Horn Front,Horn Front,Horn vorne,True
+Mecha,Mecha,Mecha,True
+Outfit Collar Inner,Outfit Collar Inner,Outfit-Kragen innen,True
+Outfit Inner,Outfit Inner,Outfit innen,True
+Outfit Outer,Outfit Outer,Outfit außen,True
+Outfit Neckwear A,Outfit Neckwear A,Outfit Halsschmuck A,True
+Outfit Neckwear B,Outfit Neckwear B,Outfit Halsschmuck B,True
+Outfit Neckwear C,Outfit Neckwear C,Outfit Halsschmuck C,True
+Hair Side Branch >> A,Hair Side Branch >> A,Haarseitenzweig >> A,True
+Hair Side Branch >> B,Hair Side Branch >> B,Haarseitenzweig >> B,True
+Hair Side Branch >> C,Hair Side Branch >> C,Haarseitenzweig >> C,True
+Hair Side Branch << A,Hair Side Branch << A,Haarseitenzweig << A,True
+Hair Side Branch << B,Hair Side Branch << B,Haarseitenzweig << B,True
+Hair Side Branch << C,Hair Side Branch << C,Haarseitenzweig << C,True
