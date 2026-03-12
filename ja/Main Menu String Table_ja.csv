@@ -76,7 +76,7 @@ MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Imag
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,サンプリングレート,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,この操作で初期テクスチャとカスタムテクスチャを切り替えられます,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Textureフォルダー内のPNGを編集してください。透過状態で保存し、画像サイズは変更しないでください,True
-MainMenu.Editor.Texture.Step3Instr,After saving your edits, click this button to apply the chages to your model.,編集を保存した後、このボタンを押すとモデルに変更が適用されます,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編集を保存した後、このボタンを押すとモデルに変更が適用されます,True
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,キャラクターを保存してください。保存ボタンは画面左側のキャラクターリストの下にあります,True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,この機能を使用する前に「カスタムテクスチャの使用」マニュアルを確認してください,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,カスタムテクスチャ,True
