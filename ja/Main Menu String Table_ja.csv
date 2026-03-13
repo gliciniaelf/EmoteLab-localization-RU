@@ -60,7 +60,7 @@ MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for 
 MainMenu.Settings.ModelSettings,Model Settings,モデル設定,True
 MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,キャラクターデータを保存中…,True
 MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,キャラクターを読み込み中…,True
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,サードパーティライセンス,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,外部ライセンス,True
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),エンドユーザーライセンス契約（EULA）,True
 MainMenu.Info.Documentation,Documentation,ドキュメント,True
 MainMenu.Info.Discord,Join Our Discord,Discordに参加,True
