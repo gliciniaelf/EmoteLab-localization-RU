@@ -1,7 +1,7 @@
 Key,en,zh-Hant,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,編輯器,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",您確定要刪除角色“{0}”嗎？此操作不可撤銷。,False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",角色“{0}”已存在。您確定要覆蓋角色“{0}”嗎？此操作不可撤銷。,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",您確定要刪除角色“{0}”嗎？此操作無法復原。,False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",角色“{0}”已存在。您確定要覆蓋角色“{0}”嗎？此操作無法復原。,False
 MainMenu.Confirm,Confirm,確認,False
 MainMenu.Cancel,Cancel,取消,False
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,請輸入角色名：,False
@@ -14,16 +14,16 @@ MainMenu.Search,Search...,搜尋……,False
 MainMenu.Editor.SaveCharacter,Save Character,儲存角色,False
 MainMenu.Editor.Unload,Clear Character,重置角色,False
 MainMenu.Editor.DeleteCharacter,Delete Character,刪除角色,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,使用自定義貼圖,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,使用自訂貼圖,False
 MainMenu.Editor.ReloadTextures,Reload Textures,重新載入貼圖,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,開啟自定義貼圖資料夾,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,開啟自訂貼圖資料夾,False
 MainMenu.Editor.Color,Color,顏色,False
 MainMenu.Editor.TintColor,TintColor,淺色,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,深色,False
 MainMenu.Editor.LICENSE,LICENSE,使用條款,False
 MainMenu.Editor.AssetTypeAA,Default Assets,內建模型,False
 MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方模型,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得爲空。,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得為空。,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超過{0}個字元。,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字元“{0}”。,False
 MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",“{0}”是系統保留關鍵詞，不能作爲角色名。,False
@@ -39,9 +39,9 @@ MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,模型尺寸,False
 MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,位置水平偏移,False
 MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,位置垂直偏移,False
 MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,重置視窗設定,False
-MainMenu.Settings.ExportSettings,Animation Export Settings,動畫輸出設定,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,動畫匯出設定,False
 MainMenu.Settings.ExportSettings.SaveLocation,Save Location,儲存位置,False
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,輸出預置,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,匯出預設,False
 MainMenu.Settings.ExportSettings.Encoder,Encoder,編碼器,False
 MainMenu.Settings.ExportSettings.Width,Width,寬度,False
 MainMenu.Settings.ExportSettings.Height,Height,高度,False
@@ -50,12 +50,12 @@ MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,限�
 MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,最大幀數,False
 MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,透明閾值,False
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,使用顏色抖動,False
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,重置輸出設定,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,重置匯出設定,False
 MainMenu.Editor.Export,Export Emote,匯出動畫,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,許可資訊由模型作者提供。僅作展示，不代表 EmoteLab 開發者立場。,False
 LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,該第三方模型的作者未隨模型提供許可協議或使用說明。在將該模型用於公開、商業或專業場景前，建議您自行與模型作者確認其允許的使用範圍。,False
 LicensePopup.Close,Close,關閉,False
-MainMenu.Editor.OpenExportFolder,Open Export Folder,開啟輸出資料夾,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,開啟匯出資料夾,False
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,載入內建模型角色示例,False
 MainMenu.Settings.ModelSettings,Model Settings,模型設定,False
 MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,儲存角色資料,False
@@ -68,18 +68,18 @@ MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct forma
 MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,開啟本地模型資料夾,False
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,開啟角色資料夾,False
 MainMenu.Info.Log,Open Log Folder,開啟程式執行日誌,False
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,使用全域性顏色表,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,使用全域顏色表,False
 MainMenu.Editor.ExportStatic,Export Static Image,匯出靜態圖片,False
 MainMenu.Editor.Player.Speed,Speed,播放速度,False
-MainMenu.Settings.StaticImageSettings,Static Image Settings,靜態圖片輸出設定,False
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重置靜態圖片輸出設定,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,靜態圖片匯出設定,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重置靜態圖片匯出設定,False
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取樣頻率,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,這個選項允許您在內建貼圖和自定義貼圖間切換。,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,編輯自定義貼圖資料夾中的PNG影像，保留透明度儲存且不要改變尺寸。,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,這個選項允許您在內建貼圖和自訂貼圖間切換。,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,編輯自訂貼圖資料夾中的PNG影像，保留透明度儲存且不要改變尺寸。,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編輯完成後，點選此按鈕應用修改。,False
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,儲存您的角色。儲存按鈕在左側角色列表下方。,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,請在使用前完整閱讀手冊使用自定義貼圖章節。,False
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,自定義貼圖,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,請在使用前完整閱讀手冊使用自訂貼圖章節。,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,自訂貼圖,False
 MainMenu.Editor.Texture.Step1,Step 1,第一步,False
 MainMenu.Editor.Texture.Step2,Step 2,第二步,False
 MainMenu.Editor.Texture.Step3,Step 3,第三步,False
@@ -90,6 +90,6 @@ MainMenu.Editor.Texture.TextureUtility,Texture Utility,貼圖工具,False
 MainMenu.Editor.Texture.SelectAll,Select All,全選,False
 MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,反選,False
 MainMenu.Editor.Texture.AtlasList,Atlas List,圖集列表,False
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作將把所選圖集頁面重置爲內建版本。未儲存的修改將丟失且無法恢復。是否繼續？,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作將把所選圖集頁面重置為內建版本。未儲存的修改將會遺失且無法恢復。是否繼續？,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,色板演算法,False
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,操作會修改並覆蓋選中的 PNG 圖集檔案以修復白邊。此操作無法撤銷，是否繼續？,False

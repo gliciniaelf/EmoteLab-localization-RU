@@ -19,7 +19,7 @@ Beverage Cup,Beverage Cup,飲料杯,False
 Beverage Liquid,Beverage Liquid,飲料杯 液體,False
 Beverage Liquid 2,Beverage Liquid 2,飲料杯 液體 2,False
 Bill,Bill,鈔票,False
-Blanket Inner,Blanket Inner,被子 裏側,False
+Blanket Inner,Blanket Inner,被子 內側,False
 Blanket Outter,Blanket Outter,被子 外側,False
 Face Blush,Face Blush,臉紅,False
 Brow >>,Brow >>,眉毛 >>,False
@@ -53,8 +53,8 @@ Hair Framing >>,Hair Framing >>,頭髮 臉頰 >>,False
 Hair Framing >> Outline,Hair Framing >> Outline,頭髮 臉頰 >> 輪廓,False
 Hair Framing <<,Hair Framing <<,頭髮 臉頰 <<,False
 Hair Framing << Outline,Hair Framing << Outline,頭髮 臉頰 << 輪廓,False
-Gill,Gill,腮,False
-Gill Outline,Gill Outline,腮 輪廓,False
+Gill,Gill,鰓,False
+Gill Outline,Gill Outline,鰓 輪廓,False
 Glasses,Glasses,眼鏡,False
 Hairband A,Hairband A,髮帶 A,False
 Hairband A Outline,Hairband A Outline,髮帶 A 輪廓,False
@@ -126,9 +126,9 @@ Laptop,Laptop,電腦,False
 Laptop Light,Laptop Light,電腦 螢幕光,False
 Leg >>,Leg >>,腿 >>,False
 Leg <<,Leg <<,腿 <<,False
-Lightstick Handle,Lightstick Handle,熒光棒 把手,False
-Light Stick >>,Light Stick >>,熒光棒 >>,False
-Light Stick <<,Light Stick <<,熒光棒 <<,False
+Lightstick Handle,Lightstick Handle,螢光棒 把手,False
+Light Stick >>,Light Stick >>,螢光棒 >>,False
+Light Stick <<,Light Stick <<,螢光棒 <<,False
 Mecha,Mecha,機械,False
 Mecha >>,Mecha >>,機械 >>,False
 Mecha >> Outline,Mecha >> Outline,機械 >> 輪廓,False
@@ -141,8 +141,8 @@ Mouth/Tongue Shadow,Mouth/Tongue Shadow,嘴/舌頭 陰影,False
 Notepad,Notepad,記事本,False
 Outfit Collar,Outfit Collar,服裝 領子,False
 Outfit Collar Outline,Outfit Collar Outline,服裝 領子 輪廓,False
-Outfit Inner,Outfit Inner,服裝 裏側,False
-Outfit Inner Outline,Outfit Inner Outline,服裝 裏側 輪廓,False
+Outfit Inner,Outfit Inner,服裝 內側,False
+Outfit Inner Outline,Outfit Inner Outline,服裝 內側 輪廓,False
 Outfit Neckwear A,Outfit Neckwear A,服裝 頸部裝飾 A,False
 Outfit Neckwear A Outline,Outfit Neckwear A Outline,服裝 頸部裝飾 A 輪廓,False
 Outfit Neckwear B,Outfit Neckwear B,服裝 頸部裝飾 B,False
@@ -174,7 +174,7 @@ Sticker Alert,Sticker Alert,表情貼紙 通知/提示,False
 Sticker Alert Effect,Sticker Alert Effect,表情貼紙 通知/提示 特效,False
 Sticker Alert Outline,Sticker Alert Outline,表情貼紙 通知/提示 輪廓,False
 Sticker Angry,Sticker Angry,表情貼紙 生氣,False
-Sticker Exclamation Mark,Sticker Exclamation Mark,表情貼紙 感嘆號,False
+Sticker Exclamation Mark,Sticker Exclamation Mark,表情貼紙 驚嘆號,False
 Sticker Ghost,Sticker Ghost,表情貼紙 幽靈,False
 Sticker Heart,Sticker Heart,表情貼紙 愛心,False
 Sticker Laugh,Sticker Laugh,表情貼紙 笑,False
@@ -186,27 +186,27 @@ Sticker Surprise,Sticker Surprise,表情貼紙 驚嚇,False
 Sticker Sweat,Sticker Sweat,表情貼紙 汗,False
 Sticker Sweat (Large),Sticker Sweat (Large),表情貼紙 汗（大）,False
 Sticker Volume,Sticker Volume,表情貼紙 音量,False
-Sticky Note,Sticky Note,表情貼紙 便籤,False
-Sticky Note Text,Sticky Note Text,表情貼紙 便籤 文字,False
+Sticky Note,Sticky Note,表情貼紙 便利貼,False
+Sticky Note Text,Sticky Note Text,表情貼紙 便利貼 文字,False
 Eye Tear,Eye Tear,眼睛 眼淚,False
 Utensil,Utensil,餐具,False
 Outfit Collar String,Outfit Collar String,服裝 領子 抽繩,False
 Bell,Bell,鈴鐺,False
-Confetti 1,Confetti 1,彩紙 1,False
-Confetti 2,Confetti 2,彩紙 2,False
-Confetti 3,Confetti 3,彩紙 3,False
+Confetti 1,Confetti 1,彩色紙屑 1,False
+Confetti 2,Confetti 2,彩色紙屑 2,False
+Confetti 3,Confetti 3,彩色紙屑 3,False
 Microphone,Microphone,麥克風,False
 Gleam,Gleam,光暈,False
-Video Camera,Video Camera,攝像機,False
+Video Camera,Video Camera,攝影機,False
 Point Hand,Point Hand,指人手,False
 Bowl,Bowl,碗,False
 Cake,Cake,蛋糕,False
 Candle Fire,Candle Fire,蠟燭 火焰,False
-Drawing Tablet,Drawing Tablet,畫板,False
+Drawing Tablet,Drawing Tablet,繪圖板,False
 Love Letter,Love Letter,情書,False
-Popper,Popper,彩紙筒,False
+Popper,Popper,拉炮,False
 Stylus,Stylus,手寫筆,False
-Tablet,Tablet,畫板,False
+Tablet,Tablet,繪圖板,False
 Musical Note 1,Musical Note 1,音樂 音符 1,False
 Musical Note 2,Musical Note 2,音樂 音符 2,False
 Phone Screen,Phone Screen,手機 螢幕,False
